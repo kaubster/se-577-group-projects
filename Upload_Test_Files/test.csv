@@ -1,0 +1,9 @@
+# hash marks indicate file comments and are skipped.,,,,
+# '^' indicate attribute names.,,,,
+"# Attribute types are parsed and determined to be floating-point, integer, arbitrary or [enumeration]",,,,
+,,,,
+#Attribute Names:,^temperature,^capacity,^color,^comment
+#Sample 1,25.5,25,comment 1,[red]
+#Sample 2,23.5,23,comment 2,[green]
+#Sample 3,10.5,10,comment 3,[blue]
+#Sample 4,5.5,5,comment 4,[yellow]

@@ -1,0 +1,6 @@
+*  A software architecture that implements at least 3 software design patterns. 
+*  A use case description for each design
+*  A unified model language (UML) class diagram for each use case
+*  A UML component diagram for each use case
+*  A UML deployment diagram for the software architecture
+*  Implement quality attributes for the software
